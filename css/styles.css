@@ -33,6 +33,8 @@ p {
   font-family: "Merriweather", serif;
   color: #0a1d37;
   font-weight: bold;
+
+  line-height: 40px;
 }
 .MiddleContainer {
   width: 100%;
@@ -73,6 +75,7 @@ p {
   width: 25%;
   float: left;
   margin-right: 30px;
+  position: relative;
 }
 .joystick {
   text-align: right;
