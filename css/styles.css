@@ -96,3 +96,9 @@ p {
   font-weight: bold;
   margin-top: 10px;
 }
+@media (max-width : 480px) 
+{ 
+  /*
+  The code written here will be affected for Mobile screens only */
+
+ }
